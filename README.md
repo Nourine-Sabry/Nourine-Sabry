@@ -1,5 +1,5 @@
 
-![banner](https://github.com/Nourine-Sabry/Nourine-Sabry/blob/main/GitHub_Banner.png)
+![banner]()
 
 ## Hi there 👋🏻 I'm Nourine Sabry.
 
