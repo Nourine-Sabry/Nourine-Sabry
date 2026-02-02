@@ -1,7 +1,13 @@
 
 ![banner](https://github.com/Nourine-Sabry/Nourine-Sabry/blob/main/GitHub_Banner.png)
 
-## Hi there 👋🏻 I'm Nourine, and I'm a Bioinformatics fresh graduate from Nile University.
+## Hi there 👋🏻 I'm Nourine Sabry.
+
+## About me:
+
+### 🎓 I graduated *Summa Cum Laude* with a B.Sc. in Biotechnology and a specialisation in Bioinformatics from Nile University in 2025.
+
+### 👩🏻‍🏫 Currently, I am a Teaching Assistant at Nile University.
 
 ## Check out my other accounts 👇🏻:
 
