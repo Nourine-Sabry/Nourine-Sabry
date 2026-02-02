@@ -3,13 +3,13 @@
 
 ## Hi there 👋🏻 I'm Nourine Sabry.
 
-## About me:
+## 👩🏻‍🦱 About me:
 
 ### 🎓 I graduated *Summa Cum Laude* with a B.Sc. in Biotechnology and a specialisation in Bioinformatics from Nile University in 2025.
 
 ### 👩🏻‍🏫 Currently, I am a Teaching Assistant at Nile University.
 
-## Check out my other accounts 👇🏻:
+## 📲 Check out my other accounts:
 
 ### LinkedIn account: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/nourine-sabry/) - Professional profile and career highlights 👩🏻‍💻
 
