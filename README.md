@@ -5,7 +5,7 @@
 
 ## 👩🏻‍🦱 About me:
 
-### 👩🏻‍🏫 Currently, I am a Teaching Assistant at Nile University. I teach subjects such as Omics data analysis, Computer-aided drug discovery, and Algorithmic bioinformatics.
+### 👩🏻‍🏫 Currently, I am a Teaching Assistant at Nile University. I teach bioinformatics subjects such as Omics data analysis, Computer-aided drug discovery, Next-generation sequencing data analysis, Systems biology & modelling of biological networks, and Algorithmic bioinformatics.
 
 ### 🎓 I graduated *Summa Cum Laude* with a B.Sc. in Biotechnology and a specialisation in Bioinformatics from Nile University in 2025.
 
